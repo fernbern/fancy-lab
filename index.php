@@ -30,6 +30,7 @@
             <section class="footer-widgets">WIDGET</section>
             <section class="copyright">ALL RIGHTS RESERVED</section>
         </footer>
+        <?php get_footer(); ?>
     </div>
 </body>
 </html>
